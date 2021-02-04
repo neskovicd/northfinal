@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{qSCu:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),u=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Page"}),l.a.createElement("h1",null,"forests"))}}}]);
+//# sourceMappingURL=component---src-pages-forests-js-5926d1825179c33294f9.js.map
